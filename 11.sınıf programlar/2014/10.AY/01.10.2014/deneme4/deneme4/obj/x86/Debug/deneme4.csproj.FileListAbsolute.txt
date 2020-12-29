@@ -1,0 +1,9 @@
+D:\BACKUP\Desktop\deneme4\deneme4\bin\Debug\deneme4.exe
+D:\BACKUP\Desktop\deneme4\deneme4\bin\Debug\deneme4.pdb
+D:\BACKUP\Desktop\deneme4\deneme4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\deneme4\deneme4\obj\x86\Debug\deneme4.exe
+D:\BACKUP\Desktop\deneme4\deneme4\obj\x86\Debug\deneme4.pdb
+F:\11.sınıf\01.10.2014\deneme4\deneme4\obj\x86\Debug\deneme4.exe
+F:\11.sınıf\01.10.2014\deneme4\deneme4\obj\x86\Debug\deneme4.pdb
+F:\11.sınıf\01.10.2014\deneme4\deneme4\bin\Debug\deneme4.exe
+F:\11.sınıf\01.10.2014\deneme4\deneme4\bin\Debug\deneme4.pdb

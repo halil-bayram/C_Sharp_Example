@@ -1,0 +1,34 @@
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.pdb
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Form1.resources
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Properties.Resources.resources
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.csproj.GenerateResource.Cache
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+E:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.pdb
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Form1.resources
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Properties.Resources.resources
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.csproj.GenerateResource.Cache
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+D:\11.sınıf\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.pdb
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Form1.resources
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Properties.Resources.resources
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+F:\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+D:\Projeler\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+E:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+E:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.exe
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.pdb
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.exe
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\bin\Debug\kelimeoyunu.pdb
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Form1.resources
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.Properties.Resources.resources
+F:\Projeler\D.Y.L\11.sınıf programlar\2015\03.AY\11.03.2015\kelimeoyunu\kelimeoyunu\obj\x86\Debug\kelimeoyunu.csproj.GenerateResource.Cache

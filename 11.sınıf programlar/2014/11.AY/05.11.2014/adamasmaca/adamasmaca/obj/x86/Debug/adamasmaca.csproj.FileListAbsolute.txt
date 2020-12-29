@@ -1,0 +1,20 @@
+E:\halil\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+E:\halil\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.t.resources
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.Properties.Resources.resources
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.exe
+E:\halil\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.pdb
+F:\11.sınıf\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.exe
+F:\11.sınıf\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.pdb
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.exe
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.pdb
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.t.resources
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.Properties.Resources.resources
+D:\11.sınıf\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.csproj.GenerateResource.Cache
+F:\programlar\11.sınıf programlar\2014\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.exe
+F:\programlar\11.sınıf programlar\2014\11.AY\05.11.2014\adamasmaca\adamasmaca\obj\x86\Debug\adamasmaca.pdb

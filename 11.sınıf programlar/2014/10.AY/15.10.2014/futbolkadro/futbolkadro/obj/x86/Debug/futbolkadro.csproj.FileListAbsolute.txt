@@ -1,0 +1,33 @@
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\bin\Debug\futbolkadro.exe
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\bin\Debug\futbolkadro.pdb
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Form1.resources
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Properties.Resources.resources
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.exe
+D:\BACKUP\Desktop\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.pdb
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.exe
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.pdb
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.exe
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.pdb
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Form1.resources
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Properties.Resources.resources
+F:\11.sınıf\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.csproj.GenerateResource.Cache
+D:\11.sınıf\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.exe
+D:\11.sınıf\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.pdb
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.exe
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.pdb
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.exe
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.pdb
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Form1.resources
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Properties.Resources.resources
+D:\11.sınıf\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.exe
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.pdb
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.exe
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\bin\Debug\futbolkadro.pdb
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.csprojResolveAssemblyReference.cache
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Form1.resources
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.Properties.Resources.resources
+D:\Projeler\11.sınıf programlar\2014\10.AY\15.10.2014\futbolkadro\futbolkadro\obj\x86\Debug\futbolkadro.csproj.GenerateResource.Cache

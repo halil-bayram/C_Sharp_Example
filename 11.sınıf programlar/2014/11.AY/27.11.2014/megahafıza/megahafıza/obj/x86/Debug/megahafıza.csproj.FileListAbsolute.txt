@@ -1,0 +1,16 @@
+E:\27.11.2014\megahafıza\megahafıza\bin\Debug\megahafıza.exe
+E:\27.11.2014\megahafıza\megahafıza\bin\Debug\megahafıza.pdb
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.Form1.resources
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.Properties.Resources.resources
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.exe
+E:\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.pdb
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.exe
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.pdb
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\bin\Debug\megahafıza.exe
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\bin\Debug\megahafıza.pdb
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.Form1.resources
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.Properties.Resources.resources
+D:\11.sınıf\11.AY\27.11.2014\megahafıza\megahafıza\obj\x86\Debug\megahafıza.csproj.GenerateResource.Cache

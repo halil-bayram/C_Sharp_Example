@@ -1,0 +1,9 @@
+D:\BACKUP\Desktop\ikiboyutludiziler1\ikiboyutludiziler1\bin\Debug\ikiboyutludiziler1.exe
+D:\BACKUP\Desktop\ikiboyutludiziler1\ikiboyutludiziler1\bin\Debug\ikiboyutludiziler1.pdb
+D:\BACKUP\Desktop\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.exe
+D:\BACKUP\Desktop\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.pdb
+F:\01.10.2014\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.exe
+F:\01.10.2014\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.pdb
+D:\11.sınıf\10.AY\01.10.2014\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.exe
+D:\11.sınıf\10.AY\01.10.2014\ikiboyutludiziler1\ikiboyutludiziler1\obj\x86\Debug\ikiboyutludiziler1.pdb

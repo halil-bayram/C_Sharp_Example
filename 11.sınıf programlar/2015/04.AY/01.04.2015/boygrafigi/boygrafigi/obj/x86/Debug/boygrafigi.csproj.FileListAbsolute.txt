@@ -1,0 +1,16 @@
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\bin\Debug\boygrafigi.exe
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\bin\Debug\boygrafigi.pdb
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.Form1.resources
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.Properties.Resources.resources
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.exe
+E:\Halil\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.pdb
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.exe
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.pdb
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\bin\Debug\boygrafigi.exe
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\bin\Debug\boygrafigi.pdb
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.Form1.resources
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.Properties.Resources.resources
+D:\11.sınıf\2015\04.AY\01.04.2015\boygrafigi\boygrafigi\obj\x86\Debug\boygrafigi.csproj.GenerateResource.Cache

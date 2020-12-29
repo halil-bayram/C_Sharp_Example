@@ -1,0 +1,18 @@
+E:\raporlama\raporlama\bin\Debug\raporlama.exe.config
+E:\raporlama\raporlama\bin\Debug\raporlama.exe
+E:\raporlama\raporlama\bin\Debug\raporlama.pdb
+E:\raporlama\raporlama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\raporlama\raporlama\obj\x86\Debug\raporlama.Form1.resources
+E:\raporlama\raporlama\obj\x86\Debug\raporlama.Properties.Resources.resources
+E:\raporlama\raporlama\obj\x86\Debug\raporlama.rapor.resources
+E:\raporlama\raporlama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\raporlama\raporlama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\raporlama\raporlama\obj\x86\Debug\raporlama.exe
+E:\raporlama\raporlama\obj\x86\Debug\raporlama.pdb
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\raporlama.Form1.resources
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\raporlama.Properties.Resources.resources
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\raporlama.rapor.resources
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\22.04.2015\raporlama\raporlama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projeler\11.sınıf programlar\2015\04.AY\22.04.2015\raporlama\raporlama\bin\Debug\raporlama.exe.config

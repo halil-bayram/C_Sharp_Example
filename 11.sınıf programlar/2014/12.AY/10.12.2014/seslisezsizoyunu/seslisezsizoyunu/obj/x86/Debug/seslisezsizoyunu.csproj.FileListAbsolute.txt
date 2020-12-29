@@ -1,0 +1,30 @@
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Form1.resources
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Properties.Resources.resources
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.exe
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.pdb
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.exe
+E:\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.pdb
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.exe
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.pdb
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.exe
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.pdb
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Form1.resources
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Properties.Resources.resources
+D:\11.sınıf\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.csproj.GenerateResource.Cache
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.exe
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.pdb
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.exe
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.pdb
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Form1.resources
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Properties.Resources.resources
+D:\11.sınıf\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\bin\Debug\seslisezsizoyunu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Form1.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.Properties.Resources.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\12.AY\10.12.2014\seslisezsizoyunu\seslisezsizoyunu\obj\x86\Debug\seslisezsizoyunu.csproj.GenerateResource.Cache

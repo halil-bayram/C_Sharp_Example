@@ -1,0 +1,40 @@
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Form1.resources
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Properties.Resources.resources
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.exe
+D:\BACKUP\Desktop\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.pdb
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Form1.resources
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Properties.Resources.resources
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.exe
+F:\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.pdb
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.exe
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.pdb
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Form1.resources
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Properties.Resources.resources
+F:\11.sınıf\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csprojResolveAssemblyReference.cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Form1.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Properties.Resources.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csproj.GenerateResource.Cache
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csprojAssemblyReference.cache
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Form1.resources
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.Properties.Resources.resources
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csproj.GenerateResource.cache
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.exe
+E:\Projeler\D.Y.L\11.sınıf programlar\2014\10.AY\08.10.2014\hesapmakinesi\hesapmakinesi\obj\x86\Debug\hesapmakinesi.pdb

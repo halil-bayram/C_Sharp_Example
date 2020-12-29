@@ -1,0 +1,20 @@
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Form1.resources
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Properties.Resources.resources
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.exe
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.pdb
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+F:\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb
+D:\11.sınıf\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+D:\11.sınıf\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Form1.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Properties.Resources.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+D:\Projeler\11.sınıf programlar\2015\04.AY\02.04.2013\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb

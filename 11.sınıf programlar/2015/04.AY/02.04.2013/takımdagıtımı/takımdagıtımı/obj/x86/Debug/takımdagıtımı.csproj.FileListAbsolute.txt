@@ -1,0 +1,18 @@
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.Form1.resources
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.Properties.Resources.resources
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\bin\Debug\takımdagıtımı.exe
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\bin\Debug\takımdagıtımı.pdb
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.exe
+F:\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.pdb
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.exe
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.pdb
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\bin\Debug\takımdagıtımı.exe
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\bin\Debug\takımdagıtımı.pdb
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.Form1.resources
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.Properties.Resources.resources
+D:\11.sınıf\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.exe
+D:\Projeler\11.sınıf programlar\2015\04.AY\02.04.2013\takımdagıtımı\takımdagıtımı\obj\x86\Debug\takımdagıtımı.pdb

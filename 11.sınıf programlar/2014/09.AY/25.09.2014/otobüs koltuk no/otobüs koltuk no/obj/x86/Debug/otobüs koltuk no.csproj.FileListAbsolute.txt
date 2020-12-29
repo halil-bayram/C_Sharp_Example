@@ -1,0 +1,24 @@
+C:\Users\Public\Pictures\Sample Pictures\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.exe
+C:\Users\Public\Pictures\Sample Pictures\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.pdb
+C:\Users\Public\Pictures\Sample Pictures\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Pictures\Sample Pictures\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+C:\Users\Public\Pictures\Sample Pictures\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+D:\BACKUP\Desktop\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+D:\BACKUP\Desktop\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+D:\BACKUP\Desktop\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.exe
+D:\BACKUP\Desktop\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.pdb
+D:\BACKUP\Desktop\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\11.sınıf\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+F:\11.sınıf\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+F:\11.sınıf\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.exe
+F:\11.sınıf\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.pdb
+D:\11.sınıf\9.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+D:\11.sınıf\9.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.exe
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\obj\x86\Debug\otobüs koltuk no.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüs koltuk no\otobüs koltuk no\bin\Debug\otobüs koltuk no.pdb

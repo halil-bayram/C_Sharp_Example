@@ -1,0 +1,17 @@
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\bin\Debug\birimhesaplama.exe
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\bin\Debug\birimhesaplama.pdb
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.Form1.resources
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.Properties.Resources.resources
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.exe
+E:\halil\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.pdb
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.exe
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.pdb
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\bin\Debug\birimhesaplama.exe
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\bin\Debug\birimhesaplama.pdb
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.csprojResolveAssemblyReference.cache
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.Form1.resources
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.Properties.Resources.resources
+D:\11.sınıf\11.AY\13.11.2014\birimhesaplama\birimhesaplama\obj\x86\Debug\birimhesaplama.csproj.GenerateResource.Cache

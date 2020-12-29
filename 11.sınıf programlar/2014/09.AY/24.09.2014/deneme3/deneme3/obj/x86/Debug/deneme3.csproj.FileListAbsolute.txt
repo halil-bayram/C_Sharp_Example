@@ -1,0 +1,17 @@
+D:\BACKUP\Desktop\deneme3\deneme3\bin\Debug\deneme3.exe
+D:\BACKUP\Desktop\deneme3\deneme3\bin\Debug\deneme3.pdb
+D:\BACKUP\Desktop\deneme3\deneme3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\deneme3\deneme3\obj\x86\Debug\deneme3.exe
+D:\BACKUP\Desktop\deneme3\deneme3\obj\x86\Debug\deneme3.pdb
+F:\11.sınıf\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.exe
+F:\11.sınıf\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.pdb
+F:\11.sınıf\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.exe
+F:\11.sınıf\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.pdb
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.exe
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\obj\x86\Debug\deneme3.pdb
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.exe
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme3\deneme3\bin\Debug\deneme3.pdb

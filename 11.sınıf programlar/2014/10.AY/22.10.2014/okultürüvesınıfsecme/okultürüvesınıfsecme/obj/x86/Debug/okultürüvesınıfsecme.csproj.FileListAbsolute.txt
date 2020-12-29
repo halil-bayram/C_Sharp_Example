@@ -1,0 +1,26 @@
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.exe
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.pdb
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Form1.resources
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Properties.Resources.resources
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.exe
+D:\BACKUP\Desktop\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.pdb
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.exe
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.pdb
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.exe
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.pdb
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Form1.resources
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Properties.Resources.resources
+D:\11.sınıf\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.pdb
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.exe
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.pdb
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.exe
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\bin\Debug\okultürüvesınıfsecme.pdb
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.csprojResolveAssemblyReference.cache
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Form1.resources
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.Properties.Resources.resources
+D:\Projeler\11.sınıf programlar\2014\10.AY\22.10.2014\okultürüvesınıfsecme\okultürüvesınıfsecme\obj\x86\Debug\okultürüvesınıfsecme.csproj.GenerateResource.Cache

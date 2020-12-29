@@ -1,0 +1,16 @@
+F:\30.10.2014\futbolcular\futbolcular\bin\Debug\futbolcular.exe
+F:\30.10.2014\futbolcular\futbolcular\bin\Debug\futbolcular.pdb
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.Form1.resources
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.Properties.Resources.resources
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.exe
+F:\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.pdb
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.exe
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.pdb
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\bin\Debug\futbolcular.exe
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\bin\Debug\futbolcular.pdb
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.Form1.resources
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.Properties.Resources.resources
+D:\11.sınıf\10.AY\30.10.2014\futbolcular\futbolcular\obj\x86\Debug\futbolcular.csproj.GenerateResource.Cache

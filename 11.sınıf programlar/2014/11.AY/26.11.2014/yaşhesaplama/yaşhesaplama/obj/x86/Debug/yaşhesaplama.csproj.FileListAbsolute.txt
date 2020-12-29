@@ -1,0 +1,11 @@
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\bin\Debug\yaşhesaplama.exe
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\bin\Debug\yaşhesaplama.pdb
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.Form1.resources
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.Properties.Resources.resources
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.exe
+E:\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.pdb
+D:\11.sınıf\11.AY\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.exe
+D:\11.sınıf\11.AY\26.11.2014\yaşhesaplama\yaşhesaplama\obj\x86\Debug\yaşhesaplama.pdb

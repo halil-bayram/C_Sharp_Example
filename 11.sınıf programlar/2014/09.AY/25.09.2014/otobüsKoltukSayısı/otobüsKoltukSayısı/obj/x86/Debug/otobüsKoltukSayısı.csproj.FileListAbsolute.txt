@@ -1,0 +1,19 @@
+F:\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.exe
+F:\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.pdb
+F:\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.exe
+F:\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.pdb
+F:\11.sınıf\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.exe
+F:\11.sınıf\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.pdb
+F:\11.sınıf\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.exe
+F:\11.sınıf\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.pdb
+D:\11.sınıf\9.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.exe
+D:\11.sınıf\9.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.pdb
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.exe
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.pdb
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.exe
+D:\11.sınıf\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\obj\x86\Debug\otobüsKoltukSayısı.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\otobüsKoltukSayısı\otobüsKoltukSayısı\bin\Debug\otobüsKoltukSayısı.pdb

@@ -1,0 +1,9 @@
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\bin\Debug\sınıflatekrarsızsayı.exe
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\bin\Debug\sınıflatekrarsızsayı.pdb
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\sınıflatekrarsızsayı.Form1.resources
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\sınıflatekrarsızsayı.Properties.Resources.resources
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\sınıflatekrarsızsayı.exe
+E:\25.12.2014\sınıflatekrarsızsayı\sınıflatekrarsızsayı\obj\x86\Debug\sınıflatekrarsızsayı.pdb

@@ -1,0 +1,13 @@
+D:\BACKUP\Desktop\24.09.2014\deneme5\deneme5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.exe
+D:\BACKUP\Desktop\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.pdb
+D:\BACKUP\Desktop\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.exe
+D:\BACKUP\Desktop\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.pdb
+F:\11.sınıf\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.exe
+F:\11.sınıf\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.pdb
+F:\11.sınıf\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.exe
+F:\11.sınıf\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme5\deneme5\obj\x86\Debug\deneme5.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme5\deneme5\bin\Debug\deneme5.pdb

@@ -1,0 +1,19 @@
+E:\halil\17.12.2014\yapboz\yapboz\bin\Debug\yapboz.exe
+E:\halil\17.12.2014\yapboz\yapboz\bin\Debug\yapboz.pdb
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.Form1.resources
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.Properties.Resources.resources
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.exe
+E:\halil\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.pdb
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.csprojResolveAssemblyReference.cache
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.Form1.resources
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.Properties.Resources.resources
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.csproj.GenerateResource.Cache
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\bin\Debug\yapboz.exe
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\bin\Debug\yapboz.pdb
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.exe
+D:\11.sınıf\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.pdb
+D:\Projeler\11.sınıf programlar\2014\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.exe
+D:\Projeler\11.sınıf programlar\2014\12.AY\17.12.2014\yapboz\yapboz\obj\x86\Debug\yapboz.pdb

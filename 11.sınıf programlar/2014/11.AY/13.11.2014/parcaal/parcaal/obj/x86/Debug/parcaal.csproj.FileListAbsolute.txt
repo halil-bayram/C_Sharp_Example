@@ -1,0 +1,17 @@
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.Form1.resources
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.Properties.Resources.resources
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\13.11.2014\parcaal\parcaal\bin\Debug\parcaal.exe
+E:\halil\13.11.2014\parcaal\parcaal\bin\Debug\parcaal.pdb
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.exe
+E:\halil\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.pdb
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.exe
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.pdb
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\bin\Debug\parcaal.exe
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\bin\Debug\parcaal.pdb
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.Form1.resources
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.Properties.Resources.resources
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.csproj.GenerateResource.Cache
+D:\11.sınıf\11.AY\13.11.2014\parcaal\parcaal\obj\x86\Debug\parcaal.csprojResolveAssemblyReference.cache

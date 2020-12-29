@@ -1,0 +1,16 @@
+D:\BACKUP\Desktop\kangrubu\kangrubu\bin\Debug\kangrubu.exe
+D:\BACKUP\Desktop\kangrubu\kangrubu\bin\Debug\kangrubu.pdb
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\kangrubu.Form1.resources
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\kangrubu.Properties.Resources.resources
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\kangrubu.exe
+D:\BACKUP\Desktop\kangrubu\kangrubu\obj\x86\Debug\kangrubu.pdb
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\obj\x86\Debug\kangrubu.exe
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\obj\x86\Debug\kangrubu.pdb
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\bin\Debug\kangrubu.exe
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\bin\Debug\kangrubu.pdb
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\obj\x86\Debug\kangrubu.Form1.resources
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\obj\x86\Debug\kangrubu.Properties.Resources.resources
+D:\11.sınıf\10.AY\22.10.2014\kangrubu\kangrubu\obj\x86\Debug\kangrubu.csproj.GenerateResource.Cache

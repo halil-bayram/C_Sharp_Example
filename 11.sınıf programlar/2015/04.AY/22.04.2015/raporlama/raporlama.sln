@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raporlama", "raporlama\raporlama.csproj", "{DC813B5E-A4D4-418A-A459-7F0D79CF8DF4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Raporkurulum", "Raporkurulum\Raporkurulum.vdproj", "{E5986AA1-EC08-4B84-B539-67F6B063EE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC813B5E-A4D4-418A-A459-7F0D79CF8DF4}.Debug|x86.ActiveCfg = Debug|x86
+		{DC813B5E-A4D4-418A-A459-7F0D79CF8DF4}.Debug|x86.Build.0 = Debug|x86
+		{DC813B5E-A4D4-418A-A459-7F0D79CF8DF4}.Release|x86.ActiveCfg = Release|x86
+		{DC813B5E-A4D4-418A-A459-7F0D79CF8DF4}.Release|x86.Build.0 = Release|x86
+		{E5986AA1-EC08-4B84-B539-67F6B063EE32}.Debug|x86.ActiveCfg = Debug
+		{E5986AA1-EC08-4B84-B539-67F6B063EE32}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.exe
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.pdb
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Form1.resources
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Properties.Resources.resources
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.exe
+D:\BACKUP\Desktop\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.pdb
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.exe
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.pdb
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.exe
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.pdb
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Form1.resources
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Properties.Resources.resources
+D:\11.sınıf\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\bin\Debug\listelemesistemi.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Form1.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.Properties.Resources.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.exe
+D:\Projeler\11.sınıf programlar\2014\10.AY\23.10.2014\listelemesistemi\listelemesistemi\obj\x86\Debug\listelemesistemi.pdb

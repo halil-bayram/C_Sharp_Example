@@ -1,0 +1,11 @@
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\bin\Debug\palindromiksayı.exe
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\bin\Debug\palindromiksayı.pdb
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.Form1.resources
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.Properties.Resources.resources
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.exe
+E:\Halil\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.pdb
+D:\11.sınıf\2015\04.AY\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.exe
+D:\11.sınıf\2015\04.AY\01.04.2015\palindromiksayı\palindromiksayı\obj\x86\Debug\palindromiksayı.pdb

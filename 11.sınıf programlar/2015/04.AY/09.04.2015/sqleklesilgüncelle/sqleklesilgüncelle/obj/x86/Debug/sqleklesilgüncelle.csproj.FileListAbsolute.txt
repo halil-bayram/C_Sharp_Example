@@ -1,0 +1,34 @@
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.exe
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.pdb
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Form1.resources
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Properties.Resources.resources
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.exe
+D:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.pdb
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.exe
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.pdb
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.exe
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.pdb
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Form1.resources
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Properties.Resources.resources
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.exe
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.pdb
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.exe
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.pdb
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.csprojResolveAssemblyReference.cache
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Form1.resources
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Properties.Resources.resources
+E:\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\bin\Debug\sqleklesilgüncelle.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.csprojResolveAssemblyReference.cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Form1.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.Properties.Resources.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\09.04.2015\sqleklesilgüncelle\sqleklesilgüncelle\obj\x86\Debug\sqleklesilgüncelle.csproj.GenerateResource.Cache

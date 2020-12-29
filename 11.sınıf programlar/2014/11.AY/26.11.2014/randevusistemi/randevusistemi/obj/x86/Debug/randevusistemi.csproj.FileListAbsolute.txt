@@ -1,0 +1,18 @@
+E:\26.11.2014\randevusistemi\randevusistemi\bin\Debug\randevusistemi.exe
+E:\26.11.2014\randevusistemi\randevusistemi\bin\Debug\randevusistemi.pdb
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.Form1.resources
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.Properties.Resources.resources
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.exe
+E:\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.pdb
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.exe
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.pdb
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\bin\Debug\randevusistemi.exe
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\bin\Debug\randevusistemi.pdb
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.Form1.resources
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.Properties.Resources.resources
+D:\11.sınıf\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2014\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.exe
+D:\Projeler\11.sınıf programlar\2014\11.AY\26.11.2014\randevusistemi\randevusistemi\obj\x86\Debug\randevusistemi.pdb

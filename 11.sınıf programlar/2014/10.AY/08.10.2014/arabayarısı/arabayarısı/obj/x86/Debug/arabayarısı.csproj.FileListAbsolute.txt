@@ -1,0 +1,48 @@
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+D:\BACKUP\Desktop\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+D:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csproj.GenerateResource.Cache
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csproj.GenerateResource.Cache
+F:\11.sınıf\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csprojResolveAssemblyReference.cache
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csprojResolveAssemblyReference.cache
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+D:\11.sınıf\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csproj.GenerateResource.Cache
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csprojResolveAssemblyReference.cache
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+E:\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csproj.GenerateResource.Cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csprojResolveAssemblyReference.cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Form1.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.Properties.Resources.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\arabayarısı\arabayarısı\obj\x86\Debug\arabayarısı.csproj.GenerateResource.Cache

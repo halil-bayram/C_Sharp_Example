@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme2", "deneme2\deneme2.csproj", "{37BA0064-AE2C-45B4-AE8C-80405632BACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BA0064-AE2C-45B4-AE8C-80405632BACF}.Debug|x86.ActiveCfg = Debug|x86
+		{37BA0064-AE2C-45B4-AE8C-80405632BACF}.Debug|x86.Build.0 = Debug|x86
+		{37BA0064-AE2C-45B4-AE8C-80405632BACF}.Release|x86.ActiveCfg = Release|x86
+		{37BA0064-AE2C-45B4-AE8C-80405632BACF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

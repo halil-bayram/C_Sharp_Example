@@ -1,0 +1,43 @@
+E:\halil\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.exe
+E:\halil\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.pdb
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Form1.resources
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Properties.Resources.resources
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.exe
+E:\halil\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.pdb
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Form1.resources
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Properties.Resources.resources
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.exe
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.pdb
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.exe
+F:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.pdb
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.exe
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.pdb
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.exe
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.pdb
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Form1.resources
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Properties.Resources.resources
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\11.sınıf\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.exe
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.pdb
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.exe
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.pdb
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.csprojResolveAssemblyReference.cache
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Form1.resources
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Properties.Resources.resources
+D:\11.sınıf\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\bin\Debug\harfoyunu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.csprojResolveAssemblyReference.cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Form1.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.Properties.Resources.resources
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2014\11.AY\12.11.2014\harfoyunu\harfoyunu\obj\x86\Debug\harfoyunu.csproj.GenerateResource.Cache

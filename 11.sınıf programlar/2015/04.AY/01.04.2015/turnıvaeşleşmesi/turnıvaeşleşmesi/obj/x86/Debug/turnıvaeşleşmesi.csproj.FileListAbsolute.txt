@@ -1,0 +1,11 @@
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\bin\Debug\turnıvaeşleşmesi.exe
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\bin\Debug\turnıvaeşleşmesi.pdb
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.Form1.resources
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.Properties.Resources.resources
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.exe
+E:\Halil\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.pdb
+D:\11.sınıf\2015\04.AY\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.exe
+D:\11.sınıf\2015\04.AY\01.04.2015\turnıvaeşleşmesi\turnıvaeşleşmesi\obj\x86\Debug\turnıvaeşleşmesi.pdb

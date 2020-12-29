@@ -1,0 +1,18 @@
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.Form1.resources
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.Properties.Resources.resources
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\veritabanagiriş\veritabanagiriş\bin\Debug\veritabanagiriş.exe
+F:\veritabanagiriş\veritabanagiriş\bin\Debug\veritabanagiriş.pdb
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.exe
+F:\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.pdb
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.exe
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.pdb
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\bin\Debug\veritabanagiriş.exe
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\bin\Debug\veritabanagiriş.pdb
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.Form1.resources
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.Properties.Resources.resources
+D:\11.sınıf\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.csproj.GenerateResource.Cache
+E:\11.sınıf programlar\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.exe
+E:\11.sınıf programlar\2015\02.AY\26.02.2015\veritabanagiriş\veritabanagiriş\obj\x86\Debug\veritabanagiriş.pdb

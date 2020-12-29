@@ -1,0 +1,16 @@
+E:\halil\arabalar\arabalar\bin\Debug\arabalar.exe
+E:\halil\arabalar\arabalar\bin\Debug\arabalar.pdb
+E:\halil\arabalar\arabalar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\arabalar\arabalar\obj\x86\Debug\arabalar.Form1.resources
+E:\halil\arabalar\arabalar\obj\x86\Debug\arabalar.Properties.Resources.resources
+E:\halil\arabalar\arabalar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\arabalar\arabalar\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\arabalar\arabalar\obj\x86\Debug\arabalar.exe
+E:\halil\arabalar\arabalar\obj\x86\Debug\arabalar.pdb
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\obj\x86\Debug\arabalar.exe
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\obj\x86\Debug\arabalar.pdb
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\bin\Debug\arabalar.exe
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\bin\Debug\arabalar.pdb
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\obj\x86\Debug\arabalar.Form1.resources
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\obj\x86\Debug\arabalar.Properties.Resources.resources
+D:\11.sınıf\10.AY\30.10.2014\halil\arabalar\arabalar\obj\x86\Debug\arabalar.csproj.GenerateResource.Cache

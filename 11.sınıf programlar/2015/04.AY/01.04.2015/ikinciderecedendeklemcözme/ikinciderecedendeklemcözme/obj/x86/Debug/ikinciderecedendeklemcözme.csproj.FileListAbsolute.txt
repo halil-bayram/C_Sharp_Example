@@ -1,0 +1,9 @@
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\bin\Debug\ikinciderecedendeklemcözme.exe
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\bin\Debug\ikinciderecedendeklemcözme.pdb
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\ikinciderecedendeklemcözme.Form1.resources
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\ikinciderecedendeklemcözme.Properties.Resources.resources
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\ikinciderecedendeklemcözme.exe
+E:\Halil\01.04.2015\ikinciderecedendeklemcözme\ikinciderecedendeklemcözme\obj\x86\Debug\ikinciderecedendeklemcözme.pdb

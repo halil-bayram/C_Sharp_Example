@@ -1,0 +1,41 @@
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.exe
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.pdb
+E:\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.exe
+E:\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.pdb
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ana_Menü.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Düzenle.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Ögrenci_Listesi.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulübeögrenciata.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ogrenci_İşlemleri.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Properties.Resources.resources
+E:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.csproj.GenerateResource.Cache
+F:\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.exe
+F:\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.pdb
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ana_Menü.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Düzenle.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Ögrenci_Listesi.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulübeögrenciata.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ogrenci_İşlemleri.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Properties.Resources.resources
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.exe
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.pdb
+F:\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ogrenci_Ara.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.exe
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.pdb
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.exe
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\bin\Debug\sınıfkulup.pdb
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ana_Menü.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Düzenle.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulüp_Ögrenci_Listesi.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Kulübeögrenciata.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ogrenci_Ara.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Ogrenci_İşlemleri.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.Properties.Resources.resources
+D:\11.sınıf\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.csproj.GenerateResource.Cache
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.exe
+D:\Projeler\11.sınıf programlar\2015\03.AY\18.03.2015\sınıfkulup\sınıfkulup\obj\x86\Debug\sınıfkulup.pdb

@@ -1,0 +1,34 @@
+F:\26.02.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.exe
+F:\26.02.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.pdb
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Form1.resources
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Properties.Resources.resources
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.exe
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.pdb
+F:\26.02.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.satışekranı.resources
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.exe
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.pdb
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Form1.resources
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Giriş.resources
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Properties.Resources.resources
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.satışekranı.resources
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.csproj.GenerateResource.Cache
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.exe
+D:\11.sınıf\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.pdb
+F:\04.03.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.exe
+F:\04.03.2015\sinemarandevu\sinemarandevu\bin\Debug\sinemarandevu.pdb
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Form1.resources
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Giriş.resources
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.Properties.Resources.resources
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.satışekranı.resources
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.exe
+F:\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.exe
+D:\Projeler\11.sınıf programlar\2015\03.AY\04.03.2015\sinemarandevu\sinemarandevu\obj\x86\Debug\sinemarandevu.pdb

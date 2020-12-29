@@ -1,0 +1,15 @@
+D:\BACKUP\Desktop\deneme1\deneme1\bin\Debug\deneme1.exe
+D:\BACKUP\Desktop\deneme1\deneme1\bin\Debug\deneme1.pdb
+D:\BACKUP\Desktop\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+D:\BACKUP\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+F:\11.sınıf\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+F:\11.sınıf\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+F:\11.sınıf\25.09.2014\deneme1\deneme1\bin\Debug\deneme1.exe
+F:\11.sınıf\25.09.2014\deneme1\deneme1\bin\Debug\deneme1.pdb
+D:\11.sınıf\9.AY\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+D:\11.sınıf\9.AY\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\deneme1\deneme1\bin\Debug\deneme1.exe
+E:\11.sınıf programlar\2014\09.AY\25.09.2014\deneme1\deneme1\bin\Debug\deneme1.pdb

@@ -1,0 +1,11 @@
+E:\26.11.2014\mahallesecme\mahallesecme\bin\Debug\mahallesecme.exe
+E:\26.11.2014\mahallesecme\mahallesecme\bin\Debug\mahallesecme.pdb
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.Form1.resources
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.Properties.Resources.resources
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.exe
+E:\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.pdb
+D:\Projeler\11.sınıf programlar\2014\11.AY\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.exe
+D:\Projeler\11.sınıf programlar\2014\11.AY\26.11.2014\mahallesecme\mahallesecme\obj\x86\Debug\mahallesecme.pdb

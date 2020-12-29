@@ -1,0 +1,16 @@
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.exe
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.pdb
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Form1.resources
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Properties.Resources.resources
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+E:\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.exe
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.pdb
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.exe
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\bin\Debug\faturaödemetarihi.pdb
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Form1.resources
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.Properties.Resources.resources
+D:\11.sınıf\11.AY\26.11.2014\faturaödemetarihi\faturaödemetarihi\obj\x86\Debug\faturaödemetarihi.csproj.GenerateResource.Cache

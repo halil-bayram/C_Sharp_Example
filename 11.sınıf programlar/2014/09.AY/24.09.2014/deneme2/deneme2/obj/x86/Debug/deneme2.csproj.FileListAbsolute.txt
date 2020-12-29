@@ -1,0 +1,20 @@
+D:\BACKUP\Desktop\deneme2\deneme2\bin\Debug\deneme2.exe
+D:\BACKUP\Desktop\deneme2\deneme2\bin\Debug\deneme2.pdb
+D:\BACKUP\Desktop\deneme2\deneme2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+D:\BACKUP\Desktop\deneme2\deneme2\obj\x86\Debug\deneme2.pdb
+F:\11.sınıf\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+F:\11.sınıf\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.pdb
+F:\11.sınıf\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.exe
+F:\11.sınıf\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.pdb
+D:\11.sınıf\9.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+D:\11.sınıf\9.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.pdb
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.exe
+E:\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.pdb
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.exe
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.pdb
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.exe
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\bin\Debug\deneme2.pdb
+D:\Projeler\11.sınıf programlar\2014\09.AY\24.09.2014\deneme2\deneme2\obj\x86\Debug\deneme2.csprojResolveAssemblyReference.cache

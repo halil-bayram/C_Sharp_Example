@@ -1,0 +1,19 @@
+ if (sayac<12 && king==true)
+            {
+                sayac++;
+                pictureBox1.Image = Image.FromFile(yol + "\\ftbl\\" + sayac + ".jpg");
+                 if (sayac==12)
+	             {
+                 king = false;
+                     
+	           }
+            }
+            if (sayac <=12 && king == false)
+            {
+                sayac--;
+                pictureBox1.Image = Image.FromFile(yol + "\\ftbl\\" + sayac + ".jpg");
+                if (sayac == 1)
+                {
+                    king = true;
+                }
+            }

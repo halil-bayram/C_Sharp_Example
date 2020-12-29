@@ -1,0 +1,10 @@
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\bin\Debug\eslesmeoyunu.exe
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\bin\Debug\eslesmeoyunu.pdb
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.Form1.resources
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.Properties.Resources.resources
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.csproj.GenerateResource.Cache
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.exe
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.pdb
+D:\11.sınıf\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.csprojResolveAssemblyReference.cache
+D:\11.sınıf\2014\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.exe
+D:\11.sınıf\2014\12.AY\10.12.2014\eslesmeoyunu\eslesmeoyunu\obj\x86\Debug\eslesmeoyunu.pdb

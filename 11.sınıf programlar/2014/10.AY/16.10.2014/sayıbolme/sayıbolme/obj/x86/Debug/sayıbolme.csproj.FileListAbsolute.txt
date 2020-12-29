@@ -1,0 +1,7 @@
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\bin\Debug\sayıbolme.exe
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\bin\Debug\sayıbolme.pdb
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\obj\x86\Debug\sayıbolme.Form1.resources
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\obj\x86\Debug\sayıbolme.Properties.Resources.resources
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\obj\x86\Debug\sayıbolme.csproj.GenerateResource.Cache
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\obj\x86\Debug\sayıbolme.exe
+D:\11.sınıf\10.AY\16.10.2014\sayıbolme\sayıbolme\obj\x86\Debug\sayıbolme.pdb

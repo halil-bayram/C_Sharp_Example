@@ -1,0 +1,32 @@
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.exe
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.pdb
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Form1.resources
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Properties.Resources.resources
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.exe
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.pdb
+F:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Giriş.resources
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.exe
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.pdb
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Form1.resources
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Giriş.resources
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Properties.Resources.resources
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.csproj.GenerateResource.Cache
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.exe
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.pdb
+E:\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.csprojResolveAssemblyReference.cache
+D:\11.sınıf\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.exe
+D:\11.sınıf\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.exe
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.exe
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\bin\Debug\atasözüoyunu.pdb
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.csprojResolveAssemblyReference.cache
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Form1.resources
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Giriş.resources
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.Properties.Resources.resources
+D:\Projeler\11.sınıf programlar\2015\03.AY\12.03.2015\atasözüoyunu\atasözüoyunu\obj\x86\Debug\atasözüoyunu.csproj.GenerateResource.Cache

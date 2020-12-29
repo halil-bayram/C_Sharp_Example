@@ -1,0 +1,13 @@
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\bin\Debug\butonrenkoyunu.exe
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\bin\Debug\butonrenkoyunu.pdb
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.Form1.resources
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.Properties.Resources.resources
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.exe
+E:\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.pdb
+D:\11.sınıf\11.AY\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.exe
+D:\11.sınıf\11.AY\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.pdb
+D:\11.sınıf\2014\11.AY\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.exe
+D:\11.sınıf\2014\11.AY\27.11.2014\butonrenkoyunu\butonrenkoyunu\obj\x86\Debug\butonrenkoyunu.pdb

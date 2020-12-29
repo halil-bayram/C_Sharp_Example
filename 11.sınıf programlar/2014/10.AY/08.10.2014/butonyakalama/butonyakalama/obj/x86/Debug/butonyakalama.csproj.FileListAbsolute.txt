@@ -1,0 +1,37 @@
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\bin\Debug\butonyakalama.exe
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\bin\Debug\butonyakalama.pdb
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Form1.resources
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Properties.Resources.resources
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+D:\BACKUP\Desktop\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+F:\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+F:\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+D:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+D:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.exe
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.pdb
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Form1.resources
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Properties.Resources.resources
+F:\11.sınıf\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.csproj.GenerateResource.Cache
+D:\11.sınıf\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+D:\11.sınıf\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.exe
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.pdb
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Form1.resources
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Properties.Resources.resources
+D:\11.sınıf\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.csproj.GenerateResource.Cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.exe
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\bin\Debug\butonyakalama.pdb
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.csprojResolveAssemblyReference.cache
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Form1.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.Properties.Resources.resources
+F:\programlar\11.sınıf programlar\2014\10.AY\08.10.2014\butonyakalama\butonyakalama\obj\x86\Debug\butonyakalama.csproj.GenerateResource.Cache

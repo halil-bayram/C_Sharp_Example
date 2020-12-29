@@ -1,0 +1,20 @@
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.Form1.resources
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.Properties.Resources.resources
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\bin\Debug\veritabanıbaglantı.exe
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\bin\Debug\veritabanıbaglantı.pdb
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.exe
+E:\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.pdb
+D:\11.sınıf\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.exe
+D:\11.sınıf\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.pdb
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.exe
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.pdb
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\bin\Debug\veritabanıbaglantı.exe
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\bin\Debug\veritabanıbaglantı.pdb
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.Form1.resources
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.Properties.Resources.resources
+D:\11.sınıf\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.csproj.GenerateResource.Cache
+E:\11.sınıf programlar\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.exe
+E:\11.sınıf programlar\2015\01.AY\21.01.2015\veritabanıbaglantı\veritabanıbaglantı\obj\x86\Debug\veritabanıbaglantı.pdb

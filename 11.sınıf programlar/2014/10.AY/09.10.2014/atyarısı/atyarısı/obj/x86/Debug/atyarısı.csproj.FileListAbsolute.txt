@@ -1,0 +1,16 @@
+D:\BACKUP\Desktop\atyarısı\atyarısı\bin\Debug\atyarısı.exe
+D:\BACKUP\Desktop\atyarısı\atyarısı\bin\Debug\atyarısı.pdb
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\atyarısı.Form1.resources
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\atyarısı.Properties.Resources.resources
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\atyarısı.exe
+D:\BACKUP\Desktop\atyarısı\atyarısı\obj\x86\Debug\atyarısı.pdb
+F:\09.10.2014\atyarısı\atyarısı\obj\x86\Debug\atyarısı.exe
+F:\09.10.2014\atyarısı\atyarısı\obj\x86\Debug\atyarısı.pdb
+F:\09.10.2014\atyarısı\atyarısı\bin\Debug\atyarısı.exe
+F:\09.10.2014\atyarısı\atyarısı\bin\Debug\atyarısı.pdb
+F:\09.10.2014\atyarısı\atyarısı\obj\x86\Debug\atyarısı.Form1.resources
+F:\09.10.2014\atyarısı\atyarısı\obj\x86\Debug\atyarısı.Properties.Resources.resources
+F:\09.10.2014\atyarısı\atyarısı\obj\x86\Debug\atyarısı.csproj.GenerateResource.Cache

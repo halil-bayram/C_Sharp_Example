@@ -1,0 +1,30 @@
+F:\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.exe
+F:\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.pdb
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Form1.resources
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.kişidüzenle.resources
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Properties.Resources.resources
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.exe
+F:\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.pdb
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.exe
+D:\HALİL İBRAHİM BAYRAM\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.pdb
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.exe
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.pdb
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.exe
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.pdb
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.csprojResolveAssemblyReference.cache
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Form1.resources
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.kişidüzenle.resources
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Properties.Resources.resources
+F:\programlar\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.csproj.GenerateResource.Cache
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.exe
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.pdb
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.exe
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\bin\Debug\Rehber.pdb
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.csprojResolveAssemblyReference.cache
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Form1.resources
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.kişidüzenle.resources
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.Properties.Resources.resources
+D:\Projeler\11.sınıf programlar\2015\04.AY\15.04.2015\Rehber\Rehber\obj\x86\Debug\Rehber.csproj.GenerateResource.Cache

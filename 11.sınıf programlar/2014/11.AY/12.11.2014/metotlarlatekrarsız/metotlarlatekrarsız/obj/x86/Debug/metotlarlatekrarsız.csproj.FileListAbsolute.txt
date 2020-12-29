@@ -1,0 +1,17 @@
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\bin\Debug\metotlarlatekrarsız.exe
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\bin\Debug\metotlarlatekrarsız.pdb
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.Form1.resources
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.Properties.Resources.resources
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.exe
+E:\halil\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.pdb
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.exe
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.pdb
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\bin\Debug\metotlarlatekrarsız.exe
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\bin\Debug\metotlarlatekrarsız.pdb
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.Form1.resources
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.Properties.Resources.resources
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.csproj.GenerateResource.Cache
+D:\11.sınıf\11.AY\12.11.2014\metotlarlatekrarsız\metotlarlatekrarsız\obj\x86\Debug\metotlarlatekrarsız.csprojResolveAssemblyReference.cache
